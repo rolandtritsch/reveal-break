@@ -1,0 +1,8 @@
+* Set of slides to count-down a break (or so)
+
+** Using it
+
+   - Load [[http://www.tritsch.org/reveal-countdown/count.html][it]] :)
+   - Use the left/right cursor to go to the right amount of mins
+   - Click on the play button
+   - Reset the counter (any time) by hitting the left cursor key
