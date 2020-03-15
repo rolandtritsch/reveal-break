@@ -1,11 +1,12 @@
-#+title: Let's take a break (but don't be late)
+#+title: How to take a break
+#+subtitle: ... and don't be late!!!
 #+date: <2020-03-10 Tue>
 #+author: Roland Tritsch
 #+email: roland@tritsch.org
-#+options: timestamp:nil title:t author:t
+#+options: timestamp:t date:nil title:t author:t
 #+options: toc:nil num:nil
-#+reveal_theme: moon
-#+reveal_init_options: autoslide:1000
+#+reveal_theme: sky
+#+reveal_init_options: autoSlide:60000
 
 * 30 mins ...
   :PROPERTIES:
@@ -47,40 +48,40 @@
   :PROPERTIES:
   :reveal_extra_attr: data-autoslide="1000"
   :END:
-* 9 secs ...
-  :PROPERTIES:
-  :reveal_extra_attr: data-autoslide="1000"
-  :END:
-* 8 secs ...
-  :PROPERTIES:
-  :reveal_extra_attr: data-autoslide="1000"
-  :END:
-* 7 secs ...
-  :PROPERTIES:
-  :reveal_extra_attr: data-autoslide="1000"
-  :END:
-* 6 secs ...
-  :PROPERTIES:
-  :reveal_extra_attr: data-autoslide="1000"
-  :END:
-* 5 secs ...
-  :PROPERTIES:
-  :reveal_extra_attr: data-autoslide="1000"
-  :END:
-* 4 secs ...
-  :PROPERTIES:
-  :reveal_extra_attr: data-autoslide="1000"
-  :END:
-* 3 secs ...
-  :PROPERTIES:
-  :reveal_extra_attr: data-autoslide="1000"
-  :END:
-* 2 secs ...
-  :PROPERTIES:
-  :reveal_extra_attr: data-autoslide="1000"
-  :END:
-* 1 sec ...
-  :PROPERTIES:
-  :reveal_extra_attr: data-autoslide="1000"
-  :END:
+** 9 secs ...
+   :PROPERTIES:
+   :reveal_extra_attr: data-autoslide="1000"
+   :END:
+** 8 secs ...
+   :PROPERTIES:
+   :reveal_extra_attr: data-autoslide="1000"
+   :END:
+** 7 secs ...
+   :PROPERTIES:
+   :reveal_extra_attr: data-autoslide="1000"
+   :END:
+** 6 secs ...
+   :PROPERTIES:
+   :reveal_extra_attr: data-autoslide="1000"
+   :END:
+** 5 secs ...
+   :PROPERTIES:
+   :reveal_extra_attr: data-autoslide="1000"
+   :END:
+** 4 secs ...
+   :PROPERTIES:
+   :reveal_extra_attr: data-autoslide="1000"
+   :END:
+** 3 secs ...
+   :PROPERTIES:
+   :reveal_extra_attr: data-autoslide="1000"
+   :END:
+** 2 secs ...
+   :PROPERTIES:
+   :reveal_extra_attr: data-autoslide="1000"
+   :END:
+** 1 sec ...
+   :PROPERTIES:
+   :reveal_extra_attr: data-autoslide="1000"
+   :END:
 * Lift-off!!!
