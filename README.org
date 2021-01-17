@@ -6,3 +6,10 @@
    - Use the left/right cursor to go to the right amount of mins
    - Click on the play button
    - Reset the counter (any time) by hitting the left cursor key
+
+** Building/publishing it
+
+   - Start emacs
+   - Make the changes you want/need
+   - Meta-x org-reveal-export-to-html
+   - Move the count.html file to the docs dir
